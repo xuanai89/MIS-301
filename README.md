@@ -1,6 +1,4 @@
-# MIS 301: Programming in Python for Business
-
-## About This Project: Global AI Job Market Analysis
+# Global AI Job Market Analysis
 
 The goal of this project is to provide a comprehensive snapshot of the Artificial Intelligence (AI) job market by analyzing a dataset of over 15,000 job postings. The analysis aims to uncover actionable insights for both companies seeking to hire talent and professionals looking to advance their careers in the AI field.
 
